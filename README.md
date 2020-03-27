@@ -91,7 +91,7 @@ RMSE error: 0.9232826880063888
 R2 Score: 0.8948780406468524
 
 <p align="center">
-  <img src= "plots/ML/all_features_real_prediction.png" width="400" />
+  <img src= "plots/ML/all_features_predicted_real.png" width="400" />
   <img src= "plots/ML/all_features_deviance.png" width="400" /> 
 </p>
 
@@ -103,7 +103,7 @@ RMSE error: 1.4917677853076017
 R2 Score: 0.7543110912228154
 
 <p align="center">
-  <img src= "plots/ML/Without_G2_real_prediction.png" width="400" />
+  <img src= "plots/ML/Without_G2_predicted_real.png" width="400" />
   <img src= "plots/ML/Without_G2_deviance.png" width="400" /> 
 </p>
 
@@ -115,7 +115,7 @@ RMSE error: 2.582268612234751
 R2 Score: 0.27309841477549357
 
 <p align="center">
-  <img src= "plots/ML/Without_G1G2_real_prediction.png" width="400" />
+  <img src= "plots/ML/Without_G1G2_predicted_real.png" width="400" />
   <img src= "plots/ML/Without_G1G2_deviance.png" width="400" /> 
 </p>
 
