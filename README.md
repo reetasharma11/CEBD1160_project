@@ -53,6 +53,27 @@ The main idea of GBR is to optimization of arbitrary differentiable loss functio
 
 Here we list few figures we plotted:
 
+
+
+<p align="center">
+<img src="plots/visual/Medu_higher.png" width="600"><br>
+</p>
+
+<p align="center">
+<img src="plots/visual/Fedu_higher.png" width="600"><br>
+</p>
+
+
+
+
+
+Analysis from the crosstab:
+1.Let's say Medu's located in the 3 and 4 areas means the Mother's education is high while the others are located in the low area.
+2) Around 47% of the Female's students mothers have a high education while the remaining 53% have a poor education.
+3) Around 57% of the Male's students mothers have a high education while the remaining 43% have a poor education.
+4) 57% of students overall that pay for classes fail the course. While only 43% of the students that pay pass the course.
+
+
 <p align="center">
 <img src="plots/visual/Medu_Fedu_barplot.png" width="600"><br>
 </p>
