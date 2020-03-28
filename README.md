@@ -56,8 +56,8 @@ Here we list few figures we plotted:
 
 
 <p align="center">
-  <img src= "plots/visual/medu_higher.png" width="400" />
-  <img src= "plots/visual/father_higher.png" width="400" />
+  <img src= "plots/visual/medu_higher.png" width= "400" />
+  <img src= "plots/visual/fedu_higher.png" width= "400" />
 </p>
 
 
