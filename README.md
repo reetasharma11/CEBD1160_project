@@ -65,6 +65,7 @@ Here we list few figures we plotted:
 
 
 Analysis from the crosstab:
+
 1.Let's say Medu's located in the 3 and 4 areas means the Mother's education is high while the others are located in the low area.
 2) Around 47% of the Female's students mothers have a high education while the remaining 53% have a poor education.
 3) Around 57% of the Male's students mothers have a high education while the remaining 43% have a poor education.
